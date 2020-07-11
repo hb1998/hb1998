@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**hb1998/hb1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on  **React,Angular,Ionic,Node,Express,MongoDB**
+- 🌱 I’m currently learning  **GoLang,GraphQL**
+- 👯 I’m looking to collaborate on **Everything JS**
+- ⚡ Fun fact: 
+ Idk why so many javascript devs are naming their libraries after something related to science.
+   - For starters.
+      - Ionic
+      - Mithril
+      - Meteor
+      - Polymer
+      - NodeJS, just google "node physics"
+      - Angular, somewhat related to physics.
+      - Electron
+     > I'm pretty sure that there are more and you can add to the list. We will soon reach a point where we can find relevant
+     > Google results when we search any thing from science
+     > and add "js" to it. I just tried with "element js,molecule js" and it worked.😂😂😂
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
