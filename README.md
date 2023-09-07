@@ -7,10 +7,8 @@
  Idk why so many javascript devs are naming their libraries after something related to science.
    - For starters.
       - Ionic
-      - Mithril
       - Meteor
       - Polymer
-      - NodeJS, just google "node physics"
       - Angular, somewhat related to physics.
       - Electron
      > I'm pretty sure that there are more and you can add to the list. We will soon reach a point where we can find relevant
